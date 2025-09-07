@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+Alpha_Quant_Lucas.egg-info/PKG-INFO
+Alpha_Quant_Lucas.egg-info/SOURCES.txt
+Alpha_Quant_Lucas.egg-info/dependency_links.txt
+Alpha_Quant_Lucas.egg-info/requires.txt
+Alpha_Quant_Lucas.egg-info/top_level.txt
+Quantreo/Backtest.py
+Quantreo/CombinatorialPurgedCV.py
+Quantreo/DataPreprocessing.py
+Quantreo/LiveTradingSignal.py
+Quantreo/MetaTrader5.py
+Quantreo/MonteCarlo.py
+Quantreo/ParamsOptimization.py
+Quantreo/WalkForwardOptimization.py
+Quantreo/__init__.py
